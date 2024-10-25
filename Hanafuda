@@ -1,0 +1,253 @@
+Trong bài viết này, chúng tôi sẽ giải thích các thuật ngữ chính được sử dụng trong Hanafuda và hướng dẫn bạn cách chơi.
+
+# Giới thiệu về Hanafuda
+Hanafuda là một ứng dụng được thiết kế để kết nối bạn với thế giới được Hana Network hình dung. Bằng cách gửi các loại tiền điện tử lớn như ETH và USDC, bạn có thể kiếm được điểm và thẻ Hanafuda, sau đó bạn có thể sử dụng để chơi. Bạn cũng có thể tạo nhóm của riêng mình (Garden) và mời những người khác tham gia, tăng cơ hội kiếm được nhiều điểm và thẻ Hanafuda hơn nữa.
+
+Hãy cùng bắt đầu với Hanafuda nhé!
+
+Tạo và thiết lập tài khoản của bạn
+1. Tạo tài khoản Hana
+
+Nhập mã mời
+Đăng ký bằng Google, sau đó nhập mã mời (mã chữ số gồm sáu ký tự).
+
+Người dùng hiện tại có thể tạo mã mời. Nhận mã mời từ người đã là thành viên của cộng đồng, có thể thông qua phương tiện truyền thông xã hội.
+
+Không có giới hạn về số người bạn có thể mời bằng một mã duy nhất.
+Người dùng hiện tại chỉ có thể tạo mã mời nếu họ đã thực hiện ít nhất một khoản tiền gửi.
+2. Thiết lập hồ sơ của bạn
+
+Thiết lập hồ sơ của bạn
+Sau khi đăng nhập, hãy nhấp vào biểu tượng người dùng hiển thị ở đầu trang để thực hiện những thay đổi sau:
+
+Thay đổi biểu tượng : Bạn có thể tải lên bất kỳ hình ảnh nào (PNG, JPEG, JPG, tối đa 2MB).
+Thay đổi tên người dùng : Bạn chỉ có thể sử dụng ký tự chữ và số và dấu gạch dưới. Nếu tên người dùng đã được sử dụng, bạn sẽ cần chọn tên khác.
+Những thiết lập này sẽ hiển thị cho người khác khi xem bảng xếp hạng hoặc thành viên nhóm, vì vậy hãy đảm bảo chọn biểu tượng và tên người dùng mà bạn thích!
+
+Bây giờ bạn đã sẵn sàng để bắt đầu chơi Hanafuda. Bước tiếp theo là gửi tiền. Chúng ta hãy cùng xem cách thực hiện.
+
+Gửi tiền
+Để chơi Hanafuda, bạn cần phải gửi tiền điện tử được hỗ trợ. Hãy cùng tìm hiểu quy trình này.
+
+Đầu tiên, chúng ta hãy cùng xem xét các blockchain và token được hỗ trợ cho Hanafuda.
+
+Blockchain và token được hỗ trợ
+Ethereum
+
+Tiền điện tử
+USDC: 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48
+USDT: 0xdac17f958d2ee523a2206206994597c13d831ec7
+WBTC: 0x2260fac5e5542a773aa44fbcfedf7c193bc2c599
+Căn cứ
+
+Tiền điện tử
+Mã số USD: 0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913
+Sự tùy tiện
+
+Tiền điện tử
+USDC: 0xaf88d065e77c8cC2239327C5EDb3A432268e5831
+USDT: 0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9
+Mã số: 0x912CE59144191C1204E64559FE8253a0e49E6548
+Bây giờ, chúng ta hãy tiến hành gửi tiền.
+
+1. Kết nối ví của bạn
+Đầu tiên, nhấp vào “Kết nối ví” để liên kết ví của bạn với Hanafuda.
+
+Đảm bảo địa chỉ ví của bạn xuất hiện phía trên nút — điều này xác nhận kết nối.
+
+
+địa chỉ ví của bạn xuất hiện
+2. Liên kết địa chỉ ví của bạn với tài khoản hana của bạn (nếu chưa liên kết)
+Bạn sẽ cần liên kết địa chỉ ví của mình với Tài khoản Hana. Đây là quy trình chỉ thực hiện một lần và sau khi hoàn tất, bạn sẽ không cần phải thực hiện lại.
+
+Nhấp vào “Thiết lập tài khoản Hana của bạn”, ký yêu cầu trong ví của bạn và Tài khoản Hana của bạn sẽ được liên kết. Sau đó, địa chỉ được liên kết của bạn sẽ xuất hiện bên dưới Tài khoản Hana.
+
+Luôn sử dụng địa chỉ liên kết này để gửi tiền. Cố gắng gửi tiền từ một địa chỉ khác sẽ kích hoạt cảnh báo.
+
+
+địa chỉ liên kết của bạn sẽ xuất hiện
+Lưu ý: Nếu bạn cần thay đổi địa chỉ được liên kết, bạn có thể ngắt kết nối. Tuy nhiên, các khoản tiền gửi được thực hiện trực tiếp vào hợp đồng thông minh mà không sử dụng UI sẽ không được Hanafuda hỗ trợ.
+
+3. Thực hiện gửi tiền
+Chọn blockchain và token, chỉ định số tiền bạn muốn gửi và nhấp vào nút 'Gửi'.
+
+Nút gửi tiền sẽ không xuất hiện cho đến khi bạn hoàn tất các bước trước đó.
+
+Trong Hanafuda, điểm tiền gửi của bạn dựa trên số lượng giao dịch chứ không phải số tiền của mỗi lần gửi. Số tiền gửi tối thiểu thay đổi tùy theo token.
+
+Ví dụ:
+
+ETH: 1 wei (=10^-18)
+USDC: 10^-6
+WBTC: 10^-8
+Tiền gửi không mất phí.
+
+Đối với token ERC20, trước tiên bạn phải chấp thuận giao dịch. Nếu nút “Phê duyệt” xuất hiện, hãy hoàn tất quy trình đó trước khi gửi tiền. Tiền gửi ETH không cần phê duyệt.
+
+Xin lưu ý rằng việc gửi tiền trực tiếp vào hợp đồng thông minh, bên ngoài UI, có thể mất nhiều thời gian hơn để phản ánh vào điểm tiền gửi của bạn.
+
+
+Bạn có thể kiểm tra tiền gửi của mình trên Bảng điều khiển
+Việc rút tiền sẽ có thể thực hiện bắt đầu từ đầu quý 1 năm 2025.
+
+Sau khi gửi tiền, hãy mời bạn bè đến Hanafuda để trồng Vườn của bạn.
+
+Vườn
+Về cơ bản, Garden chính là nhóm của bạn và bất kỳ người dùng nào bạn mời đều sẽ trở thành một phần trong Garden của bạn.
+
+Những người dùng được mời này cũng có thể tạo Vườn của riêng họ. Tuy nhiên, chỉ những người dùng tham gia bằng mã mời của bạn mới thuộc về Vườn của bạn.
+
+Tạo Garden có nghĩa là số tiền gửi từ tất cả các thành viên, bao gồm cả của bạn, được kết hợp và sử dụng để tính Phần thưởng Garden của bạn. Bạn càng mời và thêm nhiều người dùng vào Garden của mình thì bạn càng dễ kiếm được Phần thưởng Garden. Để biết thêm chi tiết, vui lòng tham khảo phần Phần thưởng Garden.
+
+Ngoài ra, với tính năng Grow, một phần điểm kiếm được từ người dùng bạn mời cũng sẽ được cộng vào tổng số điểm của bạn. Hãy xem phần Grow để biết thêm thông tin.
+
+Hãy nhớ rằng chỉ mời người dùng sẽ không giúp bạn nhận được phần thưởng.
+
+Cách phát hành mã mời
+
+
+bạn có thể sao chép mã mời của bạn
+Nhấp vào nút “Mời” trên bảng điều khiển để sao chép mã mời vào bảng tạm.
+
+Lưu ý: Nút Mời chỉ hoạt động nếu bạn đã thực hiện ít nhất một khoản tiền gửi.
+
+Tiếp theo, chúng ta hãy tìm hiểu về Grow and Garden Rewards, những tính năng chính của trò chơi Hanafuda.
+
+Phát triển
+Grow giống như trò chơi roulette hoặc gacha. Bạn có thể kiếm được từ 100 đến 1.000 điểm ngẫu nhiên mỗi lần chơi.
+
+
+Tăng số lượng
+
+Bạn có thể kiếm được từ 100 đến 1.000 điểm một cách ngẫu nhiên
+Mối quan hệ giữa số lượng tiền gửi và nỗ lực tăng trưởng
+Số lần thử Grow tối đa phụ thuộc vào số tiền gửi của bạn. Sau đây là cách thức hoạt động:
+
+
+Mối quan hệ giữa số tiền gửi và nỗ lực tăng trưởng
+
+Mỗi giờ, số lượng tiền gửi sẽ được kiểm tra và số lần thử Grow tối đa sẽ được cập nhật tương ứng.
+
+Ví dụ, nếu bạn đã thực hiện 5 khoản tiền gửi, bạn sẽ nhận được 20 lần thử Grow. Nếu bạn sử dụng hết 20 lần thử, giảm số lần thử Grow còn lại xuống 0, số lần của bạn sẽ được đặt lại thành 20 vào thời điểm bổ sung Grow tiếp theo, miễn là tổng số tiền gửi của bạn vẫn là 5. Nếu bạn còn 10 lần thử Grow trước thời điểm bổ sung Grow tiếp theo, chúng sẽ chỉ được bổ sung thành 20; chúng sẽ không cộng lại thành 30 lần thử Grow.
+
+Tiền thưởng thành viên Grow Garden
+Khi một thành viên Garden mà bạn mời thực hiện Grow, một phần điểm họ kiếm được cũng sẽ được trao cho bạn với tư cách là người mời họ.
+
+Nếu Người dùng A, người mà bạn mời, kiếm được điểm, 16% số điểm đó sẽ được trao cho bạn.
+Nếu Người dùng A mời Người dùng B và Người dùng B kiếm được điểm, bạn sẽ được thưởng 8% số điểm đó.
+Ví dụ:
+
+Alice mời Bob và Bob mời Jack. Trong tình huống này:
+
+Nếu Alice kiếm được 100 điểm → Alice: +100 điểm, Bob: +0 điểm, Jack: +0 điểm
+Nếu Bob kiếm được 100 điểm → Alice: +16 điểm, Bob: +100 điểm, Jack: +0 điểm
+Nếu Jack kiếm được 100 điểm → Alice: +8 điểm, Bob: +16 điểm, Jack: +100 điểm
+Đây là cách phân bổ điểm cho phù hợp.
+
+Phần thưởng cho khu vườn
+
+Phần thưởng Graden
+
+Bạn có thể vẽ Hanafuda
+Garden Rewards là chìa khóa để kiếm được thẻ Hanafuda. Bạn có thể sử dụng một Garden Rewards để nhận được một thẻ Hanafuda.
+
+Hanafuda là một trò chơi bài truyền thống của Nhật Bản với các lá bài minh họa sống động mô tả động vật, thực vật và các yếu tố khác. Người chơi thu thập các lá bài này để tạo thành các tay bài cụ thể và cạnh tranh để giành điểm. Để biết thêm chi tiết về các lá bài và tay bài Hanafuda, vui lòng tham khảo phần Bộ sưu tập Hanafuda.
+
+Phần thưởng Vườn được trao dựa trên tổng số tiền gửi được thực hiện bởi toàn bộ Vườn của bạn.
+
+Trong khi Grow dựa trên số tiền gửi cá nhân của bạn thì Garden Rewards được tính dựa trên tổng số tiền gửi của bạn và những người dùng mà bạn đã mời vào Garden.
+
+Mối quan hệ giữa số lượng tiền gửi và phần thưởng cho khu vườn
+
+1. Phần thưởng thường xuyên
+
+Bạn sẽ nhận được 1 Phần thưởng Vườn cho mỗi 5 khoản tiền gửi được thực hiện.
+
+2. Phần thưởng mốc quan trọng
+
+Khi bạn đạt đến các mốc tiền gửi cụ thể, bạn sẽ nhận được phần thưởng Garden Rewards như trong bảng dưới đây.
+
+
+Phần thưởng mốc quan trọng
+
+Ví dụ:
+
+Nếu tổng số tiền gửi trong Vườn của bạn đạt tới 50:
+
+Phần thưởng thường xuyên: 50 / 5 = +10
+Phần thưởng mốc: +3
+Tổng cộng: +13 Phần thưởng Vườn
+Lưu ý về thời gian thưởng cho khu vườn
+
+Việc tính toán và cập nhật Phần thưởng Vườn dựa trên số tiền gửi của Vườn diễn ra sau mỗi 1 phút . Vì vậy, có thể có những trường hợp số tiền gửi cá nhân của bạn tăng lên, nhưng số tiền gửi của Vườn vẫn chưa được cập nhật.
+
+Hãy cùng xem xét kỹ hơn các lá bài Hanafuda và những lá bài bạn có thể tạo ra bằng cách sử dụng Phần thưởng Vườn của mình.
+
+Bộ sưu tập Hanafuda
+Bộ bài Hanafuda được chia thành bốn loại cho mỗi tháng trong 12 tháng, mỗi loại xuất hiện trong bốn mùa khác nhau, tạo nên tổng cộng 192 bộ bài độc đáo.
+
+12 tháng * 4 loại * 4 mùa = 192 thẻ
+
+Lưu ý: Sự thay đổi theo mùa là một đặc điểm độc đáo của Hanafuda trong Mạng lưới Hana.
+
+
+Bộ sưu tập
+
+Chi tiết Hanafuda
+
+Các loại Hanafuda
+Tay Hanafuda
+Xin lưu ý rằng chỉ những lá bài cùng mùa mới có thể được sử dụng để tạo thành một ván bài hợp lệ.
+
+Bạn có thể xem tất cả các ván bài có thể có bằng cách nhấp vào nút ở cuối trang Bộ sưu tập.
+
+
+Kiểm tra tất cả các tay Hanafuda
+
+Chi tiết bàn tay Hanafuda
+Dưới đây là danh sách các lá bài bạn có thể tạo ra trong Hanafuda:
+
+Thẻ Trấu: Bất kỳ 10 thẻ Trấu nào
+Ruy băng thơ: Bất kỳ 5 thẻ Ruy băng nào
+Thẻ Động Vật: Bất kỳ 5 thẻ Động Vật
+Blue Ribbons: Blue Ribbon tháng 6, Blue Ribbon tháng 9 và Blue Ribbon tháng 10
+Ruy băng đỏ: Ruy băng đỏ tháng 1, Ruy băng đỏ tháng 2 và Ruy băng đỏ tháng 3
+Bản sao của Ruy băng đỏ và xanh: Ruy băng xanh và Ruy băng đỏ
+Lợn rừng, hươu và bướm: Lợn rừng, hươu và bướm
+Cốc rượu sake ngắm trăng: Trăng tròn và cốc rượu sake
+Chén rượu sake hoa anh đào: Hoa anh đào có rèm và chén rượu sake
+Ba sáng: Bất kỳ 3 trong số Crane, Cherry Blossom with Curtain, Full Moon hoặc Phoenix
+Rainy Four Brights: Rainman và bất kỳ 3 lá Crane, Cherry Blossom with Curtain, Full Moon hoặc Phoenix
+Bốn loài sáng: Hạc, Hoa anh đào có rèm, Trăng tròn và Phượng hoàng
+Năm sáng: Hạc, Hoa anh đào có rèm, Trăng tròn, Người mưa, Phượng hoàng
+Các hiệu ứng và hoạt ảnh đặc biệt sẽ có khi bạn hoàn thành các bộ hoặc tay cụ thể. Thu thập các lá bài Hanafuda để trải nghiệm những hình ảnh độc đáo này!
+
+Chia sẻ tiền thưởng
+
+Bạn có thể chia sẻ và kiếm điểm
+Tạo một khu vườn mang lại cho bạn lợi thế trong trò chơi và chìa khóa là chia sẻ sự phấn khích của Hanafuda và mời những thành viên mới. Để khuyến khích việc chia sẻ, chúng tôi cung cấp điểm thưởng như một phần thưởng.
+
+Bất cứ khi nào nút Chia sẻ xuất hiện trong những khoảnh khắc sau, hãy nhấp vào đó để đăng lên X (trước đây là Twitter) và chia sẻ niềm vui của Hanafuda để kiếm 50 điểm thưởng:
+
+a. Khi bạn kiếm được điểm thông qua hành động Grow
+b. Khi bạn tạo một tay bài bằng cách lật các lá bài Hanafuda
+
+Bạn có thể kiếm được phần thưởng Chia sẻ một lần sau mỗi 24 giờ. Sau khi yêu cầu điểm thưởng, sẽ có thời gian chờ 24 giờ trong đó bạn sẽ không thể kiếm thêm điểm thưởng bằng cách đăng bài trên X (trước đây là Twitter).
+
+Mỗi hành động này (a và b) đều có thời gian hồi chiêu riêng, do đó bạn vẫn có thể kiếm được phần thưởng Chia sẻ khi hoàn thành một ván bài ngay cả khi bạn đã yêu cầu phần thưởng cho Hành động phát triển.
+
+Bạn có tò mò về điểm của mình so với người khác không? Hãy xem bảng xếp hạng!
+
+Bảng xếp hạng
+Bảng xếp hạng hiển thị 100 người dùng hàng đầu được xếp hạng theo điểm của họ. Trong trường hợp hòa, người dùng đã gửi tiền gần đây nhất sẽ được xếp hạng cao hơn. Người dùng tham gia thông qua mã mời ban đầu đặc biệt và không có người mời nào được gắn nhãn là “HANA-OG”. Nếu bạn không xếp hạng trong top 100, trạng thái của bạn sẽ được hiển thị là 'Hết hạng' ('-').
+
+Bạn đã sẵn sàng chơi Hanafuda chưa?
+Vậy là xong phần thuật ngữ và cách chơi Hanafuda!
+
+Sẵn sàng tích điểm chưa? Bạn có muốn thu thập các lá bài Hanafuda và tạo thành các ván bài không?
+
+Như bạn đã biết, mở rộng Khu vườn là cách tốt nhất để kiếm thêm điểm và thẻ Hanafuda một cách hiệu quả.
+
+Mời bạn bè, lập nhóm để tăng số tiền gửi và cùng nhau mở khóa thêm nhiều phần thưởng Grows và Garden!
+
+Chúc bạn chơi Hanafuda vui vẻ!
